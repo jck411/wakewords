@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env
+.venv
+ENV/
+env/
+venv/
+AAAVENVS/
+wakewords/
+
+# VSCode
+.vscode/
+
+# Python environment
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# dotenv
+.env
